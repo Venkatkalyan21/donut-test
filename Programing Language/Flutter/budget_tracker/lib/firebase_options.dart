@@ -44,8 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBe_2r744rh2fWf_lj_XSmMybzriXr5rlQ',
-    appId: '1:394318812491:web:83456781b163c3dd4404ce',
+
     messagingSenderId: '394318812491',
     projectId: 'makanan-padang',
     authDomain: 'makanan-padang.firebaseapp.com',
